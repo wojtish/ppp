@@ -1,3 +1,4 @@
 moment.locale('pl');
+//toLocaleDateString()
 var K = moment(R).format('llll');
-message(K)
+message(toLocaleDateString(K))
