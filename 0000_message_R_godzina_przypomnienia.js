@@ -1,2 +1,3 @@
 moment.locale('pl');
-message(moment(R).format('llll'))
+var K = moment(R).format('llll');
+message(K)
