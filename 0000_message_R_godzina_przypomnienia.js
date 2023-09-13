@@ -5,4 +5,4 @@ var T = moment(R).format('HH:mm:ss');
 entry().set("godzina przypomnienia", T)
 
 message(K)
-//message(T)
+message(T)
